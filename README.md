@@ -1,2 +1,3 @@
-# Develope Branch in Github
- <b> Hello Develope Branch </b>
+# Master branch in Github
+ <b> Hello Master Branch </b>
+ working with issues rigjt now
